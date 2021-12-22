@@ -1,0 +1,36 @@
+#cih:link {
+              color: hsl(120, 27%, 56%);
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            #cih:visited {
+              color: rgb(31, 176, 212);
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            #cih:hover {
+              color: blue;
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            
+            #cih:active {
+              color: yellow;
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            p-1{
+                font-size: 100px;
+                color: blue
+            }
+            /* Gunakan #Untuk Mendefinisikan id */
+            /*Gunalan * untuk mengubah semua*/
+            #ohoh{
+                width: 100px ;
+                height: 100px ;
+            }
+            *{
+                color: red;
+            }
